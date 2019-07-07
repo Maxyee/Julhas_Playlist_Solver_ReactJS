@@ -11,7 +11,6 @@ class Account extends Component {
             padding: '1rem 2rem',
         }
 
-
         return (
             <div>
                 <div class="container">
