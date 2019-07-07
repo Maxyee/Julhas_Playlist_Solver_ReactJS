@@ -33,7 +33,7 @@ When it is installed just go to your `package.json` file and check `react-router
 react-router-dom this module give us so many features such as `Route`, `BrowserRouter`, `Link`, `Redireact`, `Switch` etc.
 
 In this section we will use `Route`,`BrowserRouter`, and `Switch`. Now go to your `App.js` file and call all of the component files into
-the top of the code. Cause when we add those component into our feature code it will recognise at that time.
+the top of the code. Cause when we add those component into our `App.js`file, At that time we can use those component name into our featured element code.
 
 Now take help from the screen shot and navigate all of your components into the BrowserRouter as Route. 
 
